@@ -80,7 +80,7 @@ EV\ Penetration = \frac{Total\ EV\ Registrations}{Population\ 2021} \times 1000
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/ev-infrastructure-analysis.git
+git clone https://github.com/shorncorreia/ev-infrastructure-analysis.git
 cd ev-infrastructure-analysis
 ```
 ### 2. Create Virtual Environment & Install Dependencies
@@ -91,16 +91,15 @@ venv\Scripts\activate       # On Windows
 pip install -r requirements.txt
 ```
 ### 3. Add Data
-- Download datasets from the links in the Data Sources section.
+- Download datasets from the links in the Data Sources section and perform basic cleanning and merges (cleaned datasets already available in the data folder).
 - Place them inside a folder called data/ in the project root.
 
 ### 4. Run Analysis
-- Open Jupyter Notebook:
-- jupyter notebook
-- Run ev_analysis.ipynb to reproduce results.
+- Open Google Colab/Jupyter Notebook:
+- Run ev-infrastructure-analysis.ipynb to reproduce results.
 
 ### 5. Open Power BI Dashboard
-- Open ev_dashboard.pbix in Power BI Desktop to explore the interactive dashboard.
+- Open ev-infrastructure-analysis.pbix in Power BI Desktop to explore the interactive dashboard.
 
 ---
 
