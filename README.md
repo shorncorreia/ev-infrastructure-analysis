@@ -76,7 +76,7 @@ EV\ Penetration = \frac{Total\ EV\ Registrations}{Population\ 2021} \times 1000
 - **Prophet** (time-series forecasting)  
 - **Geopy** (geospatial distance analysis)  
 - **Power BI** (dashboard visualization)  
-- **Jupyter Notebook**  
+- **Google Colab / Jupyter Notebook**  
 
 ---
 
