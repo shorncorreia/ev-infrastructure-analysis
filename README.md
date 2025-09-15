@@ -121,3 +121,9 @@ pip install -r requirements.txt
 - Statistics Canada for Census insights.
 - Facebook Prophet team for forecasting library.
 
+---
+
+## 📬 Contact
+**Shorn Correia**  
+- [LinkedIn Profile](https://www.linkedin.com/in/shorn-correia/)
+- [Email](shorncorreia@gmail.com)
